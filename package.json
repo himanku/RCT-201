@@ -1,0 +1,30 @@
+{
+  "name": "rct-201",
+  "version": "1.0.0",
+  "description": "1. Welcome\r 2. Pre-requisites\r 3. Course Overview\r 4. Learning Topics\r    - Typescript\r    - Custom Hooks\r    - Redux\r    - NextJS\r    - Storybook\r    - Debugging\r    - Testing\r    - Advance Git\r 5. Roadmap",
+  "main": "index.js",
+  "scripts": {
+    "serve:1": "tsc w1/1.typescript-intro/2.pre-assignment/src/1.ts",
+    "serve:2": "tsc w1/1.typescript-intro/2.pre-assignment/src/2.ts",
+    "serve:3": "tsc w1/1.typescript-intro/2.pre-assignment/src/3.ts",
+    "serve:4": "tsc w1/1.typescript-intro/2.pre-assignment/src/4.ts",
+    "serve:5": "tsc w1/1.typescript-intro/2.pre-assignment/src/5.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/himanku/RCT-201.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/himanku/RCT-201/issues"
+  },
+  "homepage": "https://github.com/himanku/RCT-201#readme",
+  "devDependencies": {
+    "tsc": "^2.0.4"
+  },
+  "dependencies": {
+    "typescript": "^4.9.3"
+  }
+}
