@@ -1,0 +1,88 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "type": "Learned",
+      "message": "useState",
+      "likes": 4
+    },
+    {
+      "id": 2,
+      "type": "Learned",
+      "message": "useEffect",
+      "likes": 5
+    },
+    {
+      "id": 3,
+      "type": "Learning",
+      "message": "useRef",
+      "likes": 3
+    },
+    {
+      "id": 4,
+      "type": "Pending",
+      "message": "useReducer",
+      "likes": 8
+    },
+    {
+      "id": 5,
+      "type": "Revision",
+      "message": "React-101",
+      "likes": 4
+    },
+    {
+      "id": 6,
+      "type": "Pending",
+      "likes": 0,
+      "message": "redux"
+    },
+    {
+      "id": 7,
+      "type": "Learning",
+      "message": "Typescript",
+      "likes": 1
+    },
+    {
+      "message": "Hello",
+      "type": "Learned",
+      "likes": 1,
+      "id": 8
+    },
+    {
+      "message": "X",
+      "type": "Learned",
+      "likes": 1,
+      "id": 9
+    },
+    {
+      "message": "",
+      "type": "Learned",
+      "likes": 1,
+      "id": 10
+    },
+    {
+      "message": "Goijss",
+      "type": "Learned",
+      "likes": 1,
+      "id": 11
+    },
+    {
+      "message": "Goijss",
+      "type": "Learned",
+      "likes": 0,
+      "id": 12
+    },
+    {
+      "message": "Goijss",
+      "type": "Learned",
+      "likes": 0,
+      "id": 13
+    },
+    {
+      "message": "Goijss",
+      "type": "Learned",
+      "likes": 1,
+      "id": 14
+    }
+  ]
+}
